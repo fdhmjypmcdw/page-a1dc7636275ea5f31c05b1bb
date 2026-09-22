@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0b20470b8e41a42bf60482ff",
+  "owner": "fdhmjypmcdw",
+  "repo": "page-a1dc7636275ea5f31c05b1bb",
+  "title": "ANYDOOR机场(ANYDOOR)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a1dc7636275ea5f31c05b1bb",
+      "a": "ANYDOOR机场(ANYDOOR)",
+      "b": "机场官网线路发布页",
+      "entity": "ANYDOOR机场(ANYDOOR)",
+      "brand": "ANYDOOR机场(ANYDOOR)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "749d0e9f809ea59236b8eb26a762047248f1ec84d43cf114882832c6a4bad2bd",
+      "content": {
+        "primary_entity": "ANYDOOR机场(ANYDOOR)",
+        "keyword1": "ANYDOOR机场(ANYDOOR)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，再导入订阅即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "在订阅页面完成购买后，按客户端教程导入配置就能开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即启程",
+          "AI_DESCRIPTION": "，套餐分为基础、旗舰与团队三档，按月或按年灵活订阅。基础版每月 15 元提供 100GB 流量与 3 台设备；旗舰版每月 35 元提供 300GB 流量、5 台设备及 IPLC 专线游戏优化；团队版每月 85 元提供 1000GB 流量与 20 台设备在线。选择时先确认常用设备数量与月流量需求，再决定计费周期。客户端支持 Windows、macOS、Android、iOS 等常用系统，按设备教程导入订阅即可。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览选基础版，多设备与流媒体选旗舰版，团队协作选团队版。按年付比月付更划算，可按使用强度决定。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。统计的是同时连接数，手机、电脑、平板都算在内，按家中常用设备数量选择即可。",
+          "AI_FAQ_ANSWER_3": "Windows、macOS、Android、iOS 均有对应的客户端可按教程配置。不同系统导入订阅的步骤略有差别，按各客户端文档操作即可。",
+          "AI_FAQ_ANSWER_4": "在订阅页面选好套餐与周期后完成支付，随后把订阅信息导入所选客户端。遇到配置问题可提交工单，旗舰版与团队版享有优先或专属支持。",
+          "AI_FAQ_ANSWER_5": "基础版提供普通线路节点池，旗舰版解锁全节点原生流媒体并带 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，可按常用场景选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐流量与价格怎么选？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量怎么计算？",
+          "AI_FAQ_QUESTION_3": "常见设备该用哪个客户端？",
+          "AI_FAQ_QUESTION_4": "订阅后如何开始使用？",
+          "AI_FAQ_QUESTION_5": "不同套餐的线路有何区别？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，按实际使用习惯组合更省心。",
+          "AI_FEATURES_TITLE": "特点一览",
+          "AI_FEATURE_TEXT_1": "基础、旗舰、团队三档覆盖轻量到多人场景，流量与设备数逐级递增。",
+          "AI_FEATURE_TEXT_2": "常用系统均有对应客户端，按设备教程导入订阅即可开始使用。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，按年付费约相当于十个月价格。",
+          "AI_FEATURE_TITLE_1": "三档套餐可选",
+          "AI_FEATURE_TITLE_2": "多端客户端支持",
+          "AI_FEATURE_TITLE_3": "灵活计费周期",
+          "AI_GUIDE_INTRO": "从选择套餐到开始使用，只需三步。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "ANYDOOR 机场提供多档加速套餐，覆盖个人到团队场景。先确认设备数量与月流量，再比较基础版、旗舰版与团队版，按年付更省。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "月付 15 元起，年付更省",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备可选",
+          "AI_HIGHLIGHT_3": "常用系统客户端可按教程配置",
+          "AI_PLANS_INTRO": "基础版每月 15 元 100GB 支持 3 台设备，旗舰版每月 35 元 300GB 支持 5 台设备并含专线游戏优化，团队版每月 85 元 1000GB 支持 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求，从基础、旗舰、团队三档中确定套餐并选择月付或年付。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量、设备数与线路权益，确认满足日常使用场景。",
+          "AI_STEP_TEXT_3": "按所用客户端文档导入订阅信息，完成配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ANYDOOR 套餐指南"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vgcuocy.cn",
+    "host": "vgcuocy.cn"
+  },
+  "file_hashes": {
+    "index.html": "2c4166b15d2d8bd227f5b4e2ca699a83204f85266d8b0fcb3f438d9ae4d6273e",
+    "sitemap.xml": "980e3ade0835bf516b3604d22ec992b896c01c85cbd24eafbe82820157124074",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3ec14f8ec72696bbed7b76506dd70b44c56bfa9e0e70c3f10e83de306636e59d",
+    "robots.txt": "88579ea11b8720f7a2a18627f27a87629b96e76e8826550747bacbce9546f60b",
+    "768b4c7af860060eed9bb1d1f761f077.txt": "2cd5924b745d6f71c43b6d85928d017bf7b35e97126378a038d3b2a9f7ffc4d1"
+  },
+  "revision": "8fc02ac0e97acab9c9e8c361927caae52e6a03c5718fe7ecfa98d6b2ff69f3c7"
+}
